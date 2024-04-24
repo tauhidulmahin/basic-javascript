@@ -44,14 +44,14 @@ let num9 = num8++;
 let num10 = num6++ + num7++ - num8-- + num9--;
 console.log(num10);
 
-//post-increment/decrement example
+//pre-post-increment example
 let m = 2;
 let n = 4;
 let o = ++m + m++; //output : 6
 console.log(o);
 
-//post-increment/decrement example
+//pre-post-increment example
 let q = 2;
 let r = 4;
-let s = ++q + q++ + q++; //output : 6
-console.log(s);
+let s = ++q + q++ + q++;
+console.log(s); //output : 10
