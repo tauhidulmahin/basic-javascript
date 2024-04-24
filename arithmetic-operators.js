@@ -75,3 +75,58 @@ let stringEleven = "ten";
 let stringTwelve = "two";
 let result12 = stringEleven % stringTwelve;
 console.log(result12);
+
+
+
+// String letter and numeric
+
+// Addition Operator
+let string13 = "ten";
+let number14 = 5;
+let result13 = string13 + number14;
+console.log(result13);
+
+// Subtraction Operator
+let string15 = "ten";
+let number16 = 5;
+let result14 = string15 - number16;
+console.log(result14);
+
+// Multiplication Operator
+let string17 = "ten";
+let number18 = 5;
+let result15 = string17 * number18;
+console.log(result15);
+
+// Division Operator
+let string19 = "ten";
+let number20 = 5;
+let result16 = string19 / number20;
+console.log(result16);
+
+// Exponentiation Operator
+let string21 = "ten";
+let number22 = 5;
+let result17 = string21 ** number22;
+console.log(result17);
+
+// The Remainder Operator
+let string23 = "ten";
+let number24 = 5;
+let result18 = string23 % number24;
+console.log(result18);
+
+
+// String numeric and numeric
+
+// Addition Operator
+let string25 = "5";
+let number26 = 5;
+let result19 = string25 + number26;
+console.log(result19);
+
+// Subtraction Operator
+let string27 = "5";
+let number28 = 5;
+let result20 = string27 - number28;
+console.log(result20);
