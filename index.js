@@ -1,4 +1,5 @@
-let x = 7;
+
+/*let x = 7;
 let y = 8;
 let z = x + y;
 console.log(z);
@@ -16,7 +17,7 @@ console.log(c);
 let num1 = 10;
 let num2 = 7;
 let result = num1 < num2;
-console.log(result);
+console.log(result);*/
 
 
 
