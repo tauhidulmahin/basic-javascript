@@ -113,5 +113,17 @@ alert(F);*/
 
 
 
+// Conditional Statements
+
+/*let number = 25;
+let result;
+
+if (number%2 ==0) {
+     result = "even" 
+} else {
+    result = "odd"
+}
+console.log(result);*/
+
 
 
