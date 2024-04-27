@@ -127,3 +127,31 @@ console.log(result);*/
 
 
 
+
+/*let num = prompt("enter a number : ");
+if (num % 5 == 0) {
+    result = "multiplied";
+} else {
+    result = "not-multiplied";
+}
+
+alert(result);*/
+
+
+
+/*let score = prompt("enter a number : ");
+if (score >= 80 && score <= 100) {
+    grade = "A"
+} else if (score >= 70 && score <= 79) {
+    grade = "B"
+}
+ else if (score >= 60 && score <= 69) {
+    grade = "C"
+}
+ else if (score >= 40 && score <= 59) {
+    grade = "D"
+} else {
+    grade = "FAIL"
+}
+
+alert(grade);*/
