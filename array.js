@@ -78,7 +78,7 @@ let friends = [
 
 
 friends[3][2][2][1] = "mahin";
-// console.log(friends);
+console.log(friends);
 
 //Example
 
