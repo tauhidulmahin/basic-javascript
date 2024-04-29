@@ -1,4 +1,4 @@
-let google = {
+let gmap = {
     "markers": [   //array
       {   //array[0]
         "name": "Rixos The Palm Dubai",
@@ -15,6 +15,6 @@ let google = {
     ]
 }
 
-console.log(google.markers[1].name);
-console.log(google.markers[2].location[1]);
-console.log(google.markers[0].position[0]);
+console.log(gmap.markers[1].name);
+console.log(gmap.markers[2].location[1]);
+console.log(gmap.markers[0].position[0]);

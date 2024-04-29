@@ -1,4 +1,4 @@
-let user = {
+let weather = {
     "message": "accurate",
     "cod": "200",
     "count": 15,
@@ -80,10 +80,10 @@ let user = {
     ]  
 }
 
-console.log(user.count);
-console.log(user.list[0].main.humidity);
-console.log(user.list[0].weather[0].description);
-console.log(user.list[1].wind.deg);
-console.log(user.list[1].sys.country);
-console.log(user.list[1].clouds.all);
-console.log(user.list[1].weather[0].icon);
+console.log(weather.count);
+console.log(weather.list[0].main.humidity);
+console.log(weather.list[0].weather[0].description);
+console.log(weather.list[1].wind.deg);
+console.log(weather.list[1].sys.country);
+console.log(weather.list[1].clouds.all);
+console.log(weather.list[1].weather[0].icon);
